@@ -1,0 +1,16 @@
+{
+  "name": "3_mega_project",
+  "version": "1.0.0",
+  "description": "A Video Player project with backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Samik Chakraborty",
+  "license": "ISC"
+}
